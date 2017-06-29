@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HackAtHome.Client/bin/Debug
+/HackAtHome.Client/obj/Debug
+/HackAtHome.CustomAdapters/obj
+/HackAtHome.CustomAdapters/bin/Debug
+/HackAtHome.Entities/obj
+/HackAtHome.Entities/bin/Debug
+/HackAtHome.SAL/obj/Debug
+/HackAtHome.SAL/bin/Debug
